@@ -2,6 +2,8 @@
 
 ADB Command Center is a modular Android application designed to execute ADB commands locally via Wireless Debugging. It eliminates the need for a tethered PC by leveraging the local ADB protocol to manage permissions, install APKs, and run shell commands directly on the device.
 
+[Check out a video demo of the app here](https://youtu.be/PSNmHfQ8BIY).
+
 ## Architecture & Tech Stack
 
 The project is built using **Clean Architecture** principles and modern Android development practices:
